@@ -1,0 +1,15 @@
+{
+    "name": "one47/infusionsoftapi",
+    "description": "Infusionsoft API SDK integration plugin for OctoberCMS",
+    "homepage": "http://147tech.com",
+    "keywords": ["october", "cms", "one47", "infusionsoft", "api"],
+    "authors": [
+        {
+            "name": "Billy Williamson",
+            "email": "billy@147tech.com"
+        }
+    ],
+    "require": {
+        "infusionsoft/php-sdk": "1.2.*"
+    }
+}

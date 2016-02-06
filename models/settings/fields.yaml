@@ -1,0 +1,20 @@
+# ===================================
+#  Form Field Definitions
+# ===================================
+
+fields:
+    client_id:
+        span: left
+        label: one47.infusionsoftapi::lang.settings.client_id
+        commentAbove: one47.infusionsoftapi::lang.settings.client_id_text
+
+    client_secret:
+        span: right
+        label: one47.infusionsoftapi::lang.settings.client_secret
+        commentAbove: one47.infusionsoftapi::lang.settings.client_secret_text
+
+    redirect_uri:
+        span: full
+        label: one47.infusionsoftapi::lang.settings.redirect_uri
+        commentAbove: one47.infusionsoftapi::lang.settings.redirect_uri_text
+
